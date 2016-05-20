@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_0ab8b3e0add95ddb8a974eb349d98fa77b5f44c8.jar" />
+    </item>
+    <item
+        jar="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_8050de6907f85a636fcd96c5c09ebf61d08aafb8.jar" />
+    </item>
+    <item
+        jar="D:\PracticalTest02\androidstudio\PracticalTest02\jsoup-1.9.1\jsoup-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3dc0a3bea4f876c54846cd050e688f1bfc78fc96">
+        <dex dex="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\pre-dexed\debug\jsoup-1.9.1_7279b781bcc003f662d3ef392c0bcccf5faf7f7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eca\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_4bfbb7c420c62a25ad5ec178a3863a175388974e.jar" />
+    </item>
+    <item
+        jar="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_c0004384eac3565de200c2f083dfe59d73fb6801.jar" />
+    </item>
+    <item
+        jar="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_7f054b8cb7c92d42bdba128aeaecf5f72fc6a92c.jar" />
+    </item>
+    <item
+        jar="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\PracticalTest02\androidstudio\PracticalTest02\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_98d9d0a3fbda7287bfad14c74567a872fa452b7f.jar" />
+    </item>
+
+</items>
